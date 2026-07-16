@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "mining_fatigue_iii_bug",
+  "version": "${version}",
+  "name": "Mining Fatigue III Bug",
+  "description": "Restores the pre-26.3 Mining Fatigue III multiplier of 0.0027.",
+  "authors": [
+    "Yum"
+  ],
+  "contact": {
+    "homepage": "https://github.com/Suncloyum/Mining-Fatigue-III-Bug",
+    "sources": "https://github.com/Suncloyum/Mining-Fatigue-III-Bug",
+    "issues": "https://github.com/Suncloyum/Mining-Fatigue-III-Bug/issues"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "mixins": [
+    "mining-fatigue-iii-bug.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": [
+      "=26.3-snapshot-3",
+      "~26.3"
+    ],
+    "java": ">=25"
+  }
+}

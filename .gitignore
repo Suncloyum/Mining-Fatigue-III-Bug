@@ -1,0 +1,13 @@
+.gradle/
+.gradle-dist/
+.gradle-local/
+build/
+run/
+*.log
+gradle-*-bin.zip
+gradle-current.json
+loom-metadata.xml
+fabric-loaders.json
+minecraft-*-client.jar
+version_manifest_v2.json
+26.3-snapshot-*.json
