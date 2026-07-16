@@ -13,6 +13,15 @@ the old `0.0027` multiplier to the mathematically consistent `0.027`.
 This mod changes only Mining Fatigue III back to `0.0027`. Levels I, II, and
 IV or higher retain the 26.3 behavior.
 
+## 趣话 / Fun Fact
+
+> 比起一个正常的 Mod，这个 Mod 更像是一个 Bug：它修复了“在 Mojang 修复挖掘疲劳 III
+> 相关 Bug 之后，这个 Bug 没有办法正常工作”的 Bug。
+
+> Rather than a normal mod, this mod is more like a bug: it fixes the bug where,
+> after Mojang fixed the Mining Fatigue III bug, that bug could no longer work
+> properly.
+
 This is the inverse counterpart to
 [glowstone314/MF3F](https://github.com/glowstone314/MF3F), which fixes the old
 value in Minecraft 26.2 and earlier.
