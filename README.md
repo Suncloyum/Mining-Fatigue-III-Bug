@@ -22,9 +22,11 @@ IV or higher retain the 26.3 behavior.
 > after Mojang fixed the Mining Fatigue III bug, that bug could no longer work
 > properly.
 
-This is the inverse counterpart to
-[glowstone314/MF3F](https://github.com/glowstone314/MF3F), which fixes the old
-value in Minecraft 26.2 and earlier.
+如果你想修复 Minecraft 26.2 及更早版本中的这个 BUG，请访问：
+[glowstone314/MF3F](https://github.com/glowstone314/MF3F)。
+
+If you want to fix this bug in Minecraft 26.2 and earlier versions, please
+visit [glowstone314/MF3F](https://github.com/glowstone314/MF3F).
 
 ## Requirements
 
