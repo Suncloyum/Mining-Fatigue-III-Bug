@@ -34,14 +34,6 @@ visit [glowstone314/MF3F](https://github.com/glowstone314/MF3F).
 - Fabric Loader 0.19.3 or newer
 - Java 25
 
-## Build
-
-```powershell
-./gradlew.bat build
-```
-
-The mod JAR is written to `build/libs/`.
-
 ## Installation
 
 1. Install Fabric Loader 0.19.3 or newer for Minecraft 26.3.
