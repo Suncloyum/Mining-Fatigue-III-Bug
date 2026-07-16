@@ -1,6 +1,6 @@
 # Mining Fatigue III Bug
 
-中文：适用于 Minecraft Java Edition 26.3 的 Fabric 模组，将挖掘疲劳 III
+适用于 Minecraft Java Edition 26.3 的 Fabric 模组，将挖掘疲劳 III
 从 Mojang 修复后的 `0.027` 倍挖掘速度恢复为旧 BUG 的 `0.0027` 倍。
 
 A tiny Fabric mod for Minecraft Java Edition 26.3 that restores the old
@@ -13,7 +13,7 @@ the old `0.0027` multiplier to the mathematically consistent `0.027`.
 This mod changes only Mining Fatigue III back to `0.0027`. Levels I, II, and
 IV or higher retain the 26.3 behavior.
 
-## 趣话 / Fun Fact
+## Fun Fact
 
 > 比起一个正常的 Mod，这个 Mod 更像是一个 Bug：它修复了“在 Mojang 修复挖掘疲劳 III
 > 相关 Bug 之后，这个 Bug 没有办法正常工作”的 Bug。
