@@ -1,5 +1,11 @@
 # Mining Fatigue III Bug
 
+> 当前适配范围：Minecraft Java Edition 26.3。目前已验证
+> `26.3-snapshot-3`、`26.3-snapshot-4` 和 `26.3-snapshot-5`。
+>
+> Current compatibility: Minecraft Java Edition 26.3. Verified on
+> `26.3-snapshot-3`, `26.3-snapshot-4`, and `26.3-snapshot-5`.
+
 适用于 Minecraft Java Edition 26.3 的 Fabric 模组，将挖掘疲劳 III
 从 Mojang 修复后的 `0.027` 倍挖掘速度恢复为旧 BUG 的 `0.0027` 倍。
 
@@ -30,7 +36,7 @@ visit [glowstone314/MF3F](https://github.com/glowstone314/MF3F).
 
 ## Requirements
 
-- Minecraft Java Edition 26.3-snapshot-3 or the 26.3 release series
+- Minecraft Java Edition 26.3-snapshot-3, snapshot-4, snapshot-5, or the 26.3 release series
 - Fabric Loader 0.19.3 or newer
 - Java 25
 
